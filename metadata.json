@@ -1,0 +1,7 @@
+{
+  "name": "VisionX",
+  "description": "A Google Lens-inspired video shopping platform that detects objects in video frames and provides direct shopping links using the Gemini AI API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
